@@ -1,0 +1,4 @@
+data/.DS_Store
+qdrant_storage/**
+.env
+.DS_Store
