@@ -6,6 +6,10 @@
 ```bash
 pip install -r requirements.txt
 ```
+And to install SWARM
+```bash
+pip install git+https://github.com/openai/swarm.git
+```
 
 2. Process the Documents and insert the embeddings to Qdrant Vector Database
 ```bash
